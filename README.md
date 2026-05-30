@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ashif Kadri 👋
 
-<!--
-**Ashif119/Ashif119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Android & Flutter Developer | 3+ Years Experience
+📍 Lucknow, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Android:** Kotlin, Jetpack Compose, MVVM, Clean Architecture, Room, Retrofit, Hilt
+- **Flutter:** Dart, GetX, Hive
+- **Tools:** Git, Android Studio, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- 🔍 **QR Scanner** – Clean Architecture + CameraX + ML Kit
+- 📒 **TradeBook** – Wholesale business app (Flutter + GetX)
+
+## 📫 Connect
+- 💼 [LinkedIn](https://linkedin.com/in/ashif119)
+
+---
+💡 Open to SDE-2 Android/Flutter roles
