@@ -8,6 +8,9 @@
 - **Flutter:** Dart, GetX, Hive
 - **Tools:** Git, Android Studio, Firebase
 
+  ## 🌐 Portfolio
+[ashif119.github.io/DevPortfolio](https://ashif119.github.io/DevPortfolio/)
+
 ## 📱 Projects
 - 🔍 [**ModernQRScanner**](https://github.com/Ashif119/ModernQRScanner) 
   – Kotlin + Jetpack Compose + CameraX + ML Kit + Clean Architecture
