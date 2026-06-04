@@ -9,7 +9,8 @@
 - **Tools:** Git, Android Studio, Firebase
 
 ## 📱 Projects
-- 🔍 **QR Scanner** – Clean Architecture + CameraX + ML Kit
+- 🔍 [**ModernQRScanner**](https://github.com/Ashif119/ModernQRScanner) 
+  – Kotlin + Jetpack Compose + CameraX + ML Kit + Clean Architecture
 - 📒 **TradeBook** – Wholesale business app (Flutter + GetX)
 
 ## 📫 Connect
