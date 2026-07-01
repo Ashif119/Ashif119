@@ -9,7 +9,7 @@
 - **Tools:** Git, Android Studio, Firebase
 
   ## 🌐 Portfolio
-[ashif119.github.io/DevPortfolio](https://ashif.nexmerce.in/)
+[https://ashif.nexmerce.in/](https://ashif.nexmerce.in/)
 
 ## 📱 Projects
 - 🔍 [**ModernQRScanner**](https://github.com/Ashif119/ModernQRScanner) 
